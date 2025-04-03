@@ -158,7 +158,7 @@ mvn spring-boot:run
 `POST /companies`
 ```json
 {
-  "name": "OpenAI",
+  "name": "Bellevue IT Solution",
   "description": "AI research and deployment company"
 }
 ```
